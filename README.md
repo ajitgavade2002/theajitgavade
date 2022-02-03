@@ -8,8 +8,6 @@
 - 😉 I’m looking to collaborate with Photoshop (Just Kidding).
 - ❔ Ask me about I'll never tell you 
 - ⚡ Fun fact: Now u know all about me
-
-
-<form>
+<body>
          <button type="submit" formaction="https://www.linkedin.com/in/ajitzlinkin/">LinkedIn</button>
-      </form>
+    </body>
